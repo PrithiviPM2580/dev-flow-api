@@ -1,0 +1,9 @@
+node_modules
+dist
+coverage
+
+# Generated files
+src/**/*.generated.ts
+
+# Prisma migrations (optional)
+prisma/migrations
